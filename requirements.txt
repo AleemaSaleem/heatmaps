@@ -1,0 +1,12 @@
+firebase-admin==6.5.0
+folium==0.18.0
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.10.1
+shapely==2.0.6
+selenium==4.27.2
+geopandas==0.13.2
+Pillow==10.4.0
+opencv-python-headless==3.4.18.65
+Flask==3.0.3
+Werkzeug==3.0.4
